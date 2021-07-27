@@ -1,2 +1,2 @@
-Nombre: Mike
-Apellidos: Cardona Rodriguez
+Name: Mike
+Lastname: Cardona Rodriguez
